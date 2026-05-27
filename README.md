@@ -3,12 +3,12 @@
 AI Career Assistant is a Python-based chatbot designed to help students and freshers with
 career guidance, resume support, and study/skill recommendations.
 
-⚠️ **Note:** This project is a **rule-based chatbot with optional machine learning support**.  
+ **Note:** This project is a **rule-based chatbot with optional machine learning support**.  
 It is **not a generative AI system** (like ChatGPT), but a structured chatbot built for learning and guidance purposes.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Career guidance based on user queries
 - Resume-related assistance
@@ -18,7 +18,7 @@ It is **not a generative AI system** (like ChatGPT), but a structured chatbot bu
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. The user enters a query through the application interface.
 2. The chatbot matches the query with predefined intents.
@@ -29,7 +29,7 @@ It is **not a generative AI system** (like ChatGPT), but a structured chatbot bu
 
 ---
 
-## 🗂 Project Structure
+##  Project Structure
 
 AI_Career_Assistant/
 │
@@ -54,7 +54,7 @@ AI_Career_Assistant/
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. Make sure **Python 3.9 or above** is installed on your system.
 
@@ -67,14 +67,16 @@ cd AI-_Career_Assistant
 Run the application:
 
 python app.py
-📦 Requirements
+
+- Requirements
 Python 3.9 or higher
 
 Standard Python libraries
 
 (Optional) Machine Learning libraries if training the model
 
-🔮 Future Improvements
+-Future Improvements
+
 Integrate NLP libraries such as spaCy or NLTK
 
 Replace rule-based logic with a full ML/NLP-based chatbot
@@ -85,7 +87,9 @@ Deploy the application using Streamlit or Flask
 
 Connect to a database for persistent data storage
 
-👩‍💻 Author
+ 
+ Author
+ 
 Pavithra
 Undergraduate Student | Aspiring Software Engineer
 Interested in AI, software development, and career-oriented applications
