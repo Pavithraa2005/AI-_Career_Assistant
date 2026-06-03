@@ -1,10 +1,10 @@
-# 🎯 AI Career Assistant
+#  AI Career Assistant
 
 A conversational web application built with **Streamlit** that helps students and job seekers navigate their career journey — from skill-building and resume advice to personalized roadmaps and daily motivation.
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
