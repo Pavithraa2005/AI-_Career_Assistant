@@ -27,16 +27,16 @@ AI Career Assistant is an interactive Streamlit dashboard designed to support le
 
 ## Features
 
-- **🧭 Career Roadmap Generator** — Input your goal (e.g., Data Scientist, Web Developer) and generate a step-by-step learning plan tailored to your skill level and daily availability.
-- **💡 Daily Tips** — Rotating tips to keep learners focused and consistent.
-- **🤖 Career Chatbot** — A rule-based assistant that responds to queries about:
+- ** Career Roadmap Generator** — Input your goal (e.g., Data Scientist, Web Developer) and generate a step-by-step learning plan tailored to your skill level and daily availability.
+- **Daily Tips** — Rotating tips to keep learners focused and consistent.
+- ** Career Chatbot** — A rule-based assistant that responds to queries about:
   - Skills and learning strategies
   - Career paths and job roles
   - Resume and CV writing
   - Learning roadmaps
   - Motivation and burnout
-- **⚙️ Sidebar Controls** — Set your career goal, skill level (Beginner / Intermediate / Advanced), and hours available per day.
-- **🌙 Dark Theme UI** — Custom CSS with gradient card components for a modern look.
+- ** Sidebar Controls** — Set your career goal, skill level (Beginner / Intermediate / Advanced), and hours available per day.
+- ** Dark Theme UI** — Custom CSS with gradient card components for a modern look.
 
 ---
 
